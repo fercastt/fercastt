@@ -2,7 +2,7 @@
 - 👀 I’m interested in Life after death. 
 - 🌱 I’m currently learning: Electricity
 - 💞️ I’m looking to collaborate on code for 
-        gods: Rust 
+        gods: Rust;
     or 
         code for mortals: Python
     _else_
