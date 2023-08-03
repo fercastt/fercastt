@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @fercastt
-- 👀 I’m interested in Doughnuts/Donuts!
-- 🌱 I’m currently learning: ✅
-- 💞️ I’m looking to collaborate on Life.
-- 📫 How to reach me: mail.
+- 👀 I’m interested in Life after death. 
+- 🌱 I’m currently learning: Electricity
+- 💞️ I’m looking to collaborate on code for 
+        gods: Rust 
+    or 
+        code for mortals: Python
+    else
+    everything else;
+- 📫 How to reach me: by e-mail.
 
 <!---
 fercastt/fercastt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
