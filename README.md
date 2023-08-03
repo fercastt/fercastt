@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on code for 
         gods: Rust;
     OR 
-        code for mortals: Python
+        code for mortals: Python;
     _else_
     everything else;
 - 📫 How to reach me: by e-mail.
