@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Electricity
 - 💞️ I’m looking to collaborate on code for 
         gods: Rust;
-    or 
+    OR 
         code for mortals: Python
     _else_
     everything else;
