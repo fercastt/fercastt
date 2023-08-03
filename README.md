@@ -5,7 +5,7 @@
         gods: Rust 
     or 
         code for mortals: Python
-    else
+    _else_
     everything else;
 - 📫 How to reach me: by e-mail.
 
