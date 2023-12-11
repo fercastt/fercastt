@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fercastt
 - 👀 I’m interested in Life after death. 
-- 🌱 I’m currently learning: Electricity
+- 🌱 I’m currently learning: civilization. 
 - 💞️ I’m looking to collaborate on code for 
         gods: Rust;
     OR 
